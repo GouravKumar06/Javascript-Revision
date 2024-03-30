@@ -16,3 +16,9 @@
 */
 
 // javascript is a dynamically typed language because in this we do not need to explicit declare the datatypes of my variable we can changes in runtime
+
+
+
+/* stack memory used in primitive data types and stack memory is used we get the copy by value
+
+// heap memory  used in non-primitive data types and heap memory is used we get the copy by reference 
